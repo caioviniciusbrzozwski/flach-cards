@@ -1,11 +1,27 @@
 boby{ 
-  background-color: aqua;
+  background-color: rgb(6, 241, 29);
   font-family: Bai jamjuree;  
 }
 
+#conteiner{
+  display: flex;
+}
+
+.cartao{
+  margim:Irem Irem;
+}
+
+
+
+
+
+
+
+
+
 footer{
     background-color: ;
-     color: white;
+     color: rgb(5, 4, 4);
      position:fixed;
      bottom: 0;
      width: 100;
